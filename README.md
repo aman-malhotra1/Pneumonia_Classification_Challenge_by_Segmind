@@ -1,5 +1,6 @@
 # Pneumonia_Classification_Challenge_by_Segmind
 Images in Training set : 2425
+
 Images in Test set : 606
 
 DataSet Link : https://dphi.tech/challenges/pneumonia-classification-challenge-by-segmind/76/data
